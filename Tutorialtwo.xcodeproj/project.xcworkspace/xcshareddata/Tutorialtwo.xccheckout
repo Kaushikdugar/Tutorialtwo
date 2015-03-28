@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E936EB8E-F825-4F8F-8287-37A42D95792A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tutorialtwo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEC79AAAF291143B2F83B495AA3E68E6498EE988</key>
+		<string>https://github.com/Kaushikdugar/Tutorialtwo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tutorialtwo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEC79AAAF291143B2F83B495AA3E68E6498EE988</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kaushikdugar/Tutorialtwo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEC79AAAF291143B2F83B495AA3E68E6498EE988</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEC79AAAF291143B2F83B495AA3E68E6498EE988</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tutorialtwo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
