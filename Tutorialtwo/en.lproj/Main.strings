@@ -1,0 +1,18 @@
+
+/* Class = "IBUILabel"; text = "Enter Your Name:"; ObjectID = "04L-zj-iCM"; */
+"04L-zj-iCM.text" = "Enter Your Name:";
+
+/* Class = "IBUITabBarItem"; title = "Academic Status"; ObjectID = "5vc-ey-qLi"; */
+"5vc-ey-qLi.title" = "Academic Status";
+
+/* Class = "IBUITabBarItem"; title = "Student Profile"; ObjectID = "9MB-jg-TIi"; */
+"9MB-jg-TIi.title" = "Student Profile";
+
+/* Class = "IBUILabel"; text = "DOB"; ObjectID = "Cfs-RC-Svk"; */
+"Cfs-RC-Svk.text" = "DOB";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "DFr-vg-iyg"; */
+"DFr-vg-iyg.normalTitle" = "Login";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "iVb-um-l0Y"; */
+"iVb-um-l0Y.title" = "Item";
